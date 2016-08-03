@@ -1,4 +1,3 @@
-layout_spectrum: 0.5712016739416867
 typography_spectrum: 0.8424108007457107
 color:
   brandStrength: 0.7594404052942991
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.5712016739416867
 name: artificial wisdom
 title: Smart Machines
+description: Your Brain Is Obsolete
